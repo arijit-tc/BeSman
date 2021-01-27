@@ -19,7 +19,7 @@ fi
 
 if [[ -z $BESMAN_NAMESPACE ]];
     then
-        BESMAN_NAMESPACE={BESMAN_NAMESPACE:-arijit-tc}
+        BESMAN_NAMESPACE={BESMAN_NAMESPACE:-arijittc}
 fi
 
 # prepare branch
