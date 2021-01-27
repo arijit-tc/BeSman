@@ -7,7 +7,7 @@
 BESMAN_PLATFORM=$(uname)
 export BESMAN_SERVICE="https://raw.githubusercontent.com"
 
-BESMAN_NAMESPACE="hyperledgerkochi"
+BESMAN_NAMESPACE="arijit-tc"
 BESMAN_VERSION="1"
 BESMAN_ENV_REPOS="$BESMAN_NAMESPACE/besman-env-repo"
 # BESMAN_DIST_BRANCH=${BESMAN_DIST_BRANCH:-REL-${BESMAN_VERSION}}
