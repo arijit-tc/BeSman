@@ -1,0 +1,5 @@
+ex:*.dsp
+   *.dsw
+   *.sh
+   *.bak
+   *.tmpl
